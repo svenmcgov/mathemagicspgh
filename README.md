@@ -1,12 +1,12 @@
-## Pittsburgh based mathematics help
+# Pittsburgh based mathematics help
 
 In person math tutoring across the Pittsburgh area with flexible hours.
 
-### Services provided
-- Tutor Calculus I and II
-- Tutor all pre-calculus mathematics
-- Supply supplemental learning material
-- Provide technical help with TI calculators (tricky things, aren't they?)
+## Services provided
+- **Tutor Calculus I and II**
+- **Tutor all pre-calculus mathematics**
+- **Supply supplemental learning material**
+- **Provide technical help with TI calculators (tricky things, aren't they?)**
 
 ### About
 
