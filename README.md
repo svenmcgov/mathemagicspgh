@@ -19,9 +19,9 @@ Hello!  I'm Stephen but my friends call me Sven.  I've been teaching and tutorin
 - Tutored calculus at Penn State
 - Former Software Engineer at PNC Financial Services
 
->Some recent work (See 'Work History and Feedback')
->https://www.upwork.com/o/profiles/users/_~01d58cc5235d52d4ef/
+Some recent work (See 'Work History and Feedback')
+https://www.upwork.com/o/profiles/users/_~01d58cc5235d52d4ef/
 
 ## Contact
 
->Email mathemagicspgh@gmail.com for a quote and to schedule an appointment.
+Email mathemagicspgh@gmail.com for a quote and to schedule an appointment.
