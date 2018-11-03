@@ -1,37 +1,17 @@
 ## Pittsburgh based mathematics help
-
-Services provided:
+```markdown
+Services provided
 - Tutor/teach Calculus I and II
 - Tutor/teach all pre-calculus mathematics
 - Provide technical help with TI calculators
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### About
 
-### Jekyll Themes
+Hello!  I'm Sven and I've been teaching and tutoring mathematics for over 3 years.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/svenmcgov/mathemagicspgh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I currently tutor all levels of undergraduate mathematics at the Community College of Allegheny County, teach high school mathematics for Literacy Pittsburgh, and write mathematical lecture materials and course content.
+
 
 ### Support or Contact
 
