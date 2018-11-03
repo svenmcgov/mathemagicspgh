@@ -16,6 +16,8 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+        <p>Email <a href="mailto:mathemagicspgh@gmail.com">mathemagicspgh@gmail.com</a></p>
+        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -41,7 +43,6 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>Email <a href="mailto:mathemagicspgh@gmail.com">mathemagicspgh@gmail.com</a></p>
         <p>Algebraic!</p>
         {% endif %}
       </footer>
