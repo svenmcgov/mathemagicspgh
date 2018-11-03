@@ -24,4 +24,4 @@ Some recent work (See 'Work History and Feedback')
 
 ## Contact
 
-Email <mathemagicspgh@gmail.com> for a quote and to schedule an appointment.
+Email <mathemagicspgh@gmail.com> for a quote and to schedule an appointment (be sure to include subject, relevant textbooks, desired learning outcomes, etc.)
