@@ -1,6 +1,9 @@
 ## Pittsburgh based mathematics help
 
-Testing, testing, testing.
+Services provided:
+- Tutor/teach Calculus I and II
+- Tutor/teach all pre-calculus mathematics
+- Provide technical help with TI calculators
 
 ### Markdown
 
