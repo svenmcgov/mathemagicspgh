@@ -1,5 +1,3 @@
-In person math tutoring across the Pittsburgh area
-
 # Services provided
 ## - Tutor Calculus I and II
 ## - Tutor all pre-calculus mathematics
