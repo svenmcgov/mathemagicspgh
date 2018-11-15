@@ -1,8 +1,8 @@
 # Services provided
-## - Tutor Calculus I and II
-## - Tutor all pre-calculus mathematics
-## - Supply supplemental learning material
-## - Provide technical help with TI calculators (tricky things, aren't they?)
+ - Tutor Calculus I and II
+ - Tutor all pre-calculus mathematics
+ - Supply supplemental learning material
+ - Provide technical help with TI calculators (tricky things, aren't they?)
 
 
 # About the tutor
