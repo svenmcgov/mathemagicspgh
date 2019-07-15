@@ -1,17 +1,24 @@
 # Services provided
- - Tutor Calculus I and II
- - Tutor all pre-calculus mathematics
+ - Tutor college and advanced high school calculus
+ - Tutor pre-calculus mathematics in preparation for calculus
  - Supply supplemental learning material
- - Provide technical help with TI calculators (tricky things, aren't they?)
 
 
 # About the tutor
 
-Hello!  I'm Stephen but my friends call me Sven.  I've been teaching and tutoring mathematics for over 10 years.  I have a     B.S. from Penn State and I'm currently doing preliminary mathematics coursework for graduate school where I will pursue a     PhD.  Stay tuned!  In my free time I like to practice yoga, read, cook and do freelance software engineering.
+Hello!  I'm Stephen but my friends call me Sven.  I've been teaching and tutoring mathematics for over 10 years.  
+
+I have a B.S. from Penn State.  I'm currently doing preliminary mathematics coursework for graduate school where I will pursue a PhD.  Stay tuned!  
+
+In my free time I like to practice yoga, read, cook and do freelance software engineering.
 
 # Summary of experience
-- Currently tutoring all levels of undergraduate mathematics at the Community College of Allegheny County
-- Currently writing mathematical lecture materials and course content
+Current:
+- Adjunct mathematics professor at the Community College of Allegheny County (CCAC)
+- Math tutor for all levels of undergraduate mathematics at the Community College of Allegheny County (CCAC)
+- Freelance writer for mathematical lecture materials and course content
+
+Past:
 - Taught high school mathematics and pre-calculus for the Greater Pittsburgh Literacy Council
 - Tutored calculus at Penn State
 - Former Software Engineer at PNC Financial Services
@@ -21,4 +28,6 @@ Some recent work (See 'Work History and Feedback')
 
 # Contact
 
-Email <mathemagicspgh@gmail.com> for a quote and to schedule an appointment (be sure to include target subject, relevant textbooks, desired learning outcomes, etc.)
+Email <mathemagicspgh@gmail.com> for a quote and to schedule an appointment (be sure to include target subject, relevant textbooks, desired learning outcomes, etc.)  
+
+Note:  My base rate is $60/hour because I specialize in tutoring higher level mathematics, focused around calculus.  There are many other tutors in the Pittsburgh area who can help with more foundational mathematics courses.
