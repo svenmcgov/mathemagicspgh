@@ -30,4 +30,4 @@ Some recent work (See 'Work History and Feedback')
 
 Email <mathemagicspgh@gmail.com> for a quote and to schedule an appointment (be sure to include target subject, relevant textbooks, desired learning outcomes, etc.)  
 
-Note:  My base rate is $60/hour because I specialize in tutoring higher level mathematics, focused around calculus.  There are many other tutors in the Pittsburgh area who can help with more foundational mathematics courses.
+Note:  My base rate is $60/hour.  I specialize in tutoring higher level mathematics, focused around calculus.  There are many other tutors in the Pittsburgh area who can help with more foundational mathematics courses.
