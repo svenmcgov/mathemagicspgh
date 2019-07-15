@@ -6,9 +6,9 @@
 
 # About the tutor
 
-Hello!  I'm Stephen but my friends call me Sven.  I've been teaching and tutoring mathematics for over 10 years.  
+Hello!  I'm Stephen.  I've been teaching and tutoring mathematics for over 10 years.  
 
-I have a B.S. from Penn State.  I'm currently doing preliminary coursework for a PhD in 2020.  Stay tuned!  
+I have a B.S. from Penn State and I'm currently doing preliminary coursework for a PhD in 2020.  Stay tuned!  
 
 In my free time I like to practice yoga, read, cook and do freelance software engineering.
 
