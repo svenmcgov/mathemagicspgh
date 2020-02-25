@@ -1,7 +1,7 @@
 # Services provided
- - Tutor college and advanced high school calculus
- - Tutor pre-calculus mathematics in preparation for calculus
- - Supply supplemental learning material
+ - Tutoring for college and advanced high school calculus
+ - Tutoring for pre-calculus mathematics in preparation for calculus
+ - Supplying of supplemental learning material
 
 
 # About the tutor
