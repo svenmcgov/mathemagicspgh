@@ -1,12 +1,12 @@
 # Services provided
- - Tutoring for college and advanced high school calculus
+ - Tutoring for college / advanced high school calculus and trigonometry
  - Tutoring for pre-calculus mathematics in preparation for calculus
  - Supplying of supplemental learning material
 
 
 # About the tutor
 
-Hello!  I'm Stephen.  I have a B.S. from Penn State and I'm currently doing preliminary coursework for a PhD in 2020.  Stay tuned!
+Hello!  I'm Stephen.  I have a BS from Penn State and I'm currently doing preliminary coursework for a PhD in 2020.  Stay tuned!
 
 # Summary of experience
 Current:
@@ -26,4 +26,4 @@ Some recent work (See 'Work History and Feedback')
 
 Email <mathemagicspgh@gmail.com> for a quote and to schedule an appointment (be sure to include target subject, relevant textbooks, desired learning outcomes, etc.)  
 
-Note:  My base rate is $50/hour.  I specialize in tutoring higher level mathematics, focused around calculus.  There are many other tutors in the Pittsburgh area who can help with more foundational mathematics courses.
+Base rate : $50 / hour.
