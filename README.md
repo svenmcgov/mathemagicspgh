@@ -6,7 +6,9 @@
 
 # About the tutor
 
-Hello!  I'm Stephen.  I have a BS from Penn State and I'm currently doing preliminary coursework for a PhD in 2020.  Stay tuned!
+Hello!  I'm Stephen.  I have a BS from Penn State and I'm currently doing preliminary coursework for a PhD in 2020.
+
+Stay tuned!
 
 # Summary of experience
 Current:
