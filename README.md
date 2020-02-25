@@ -6,11 +6,7 @@
 
 # About the tutor
 
-Hello!  I'm Stephen.  I've been teaching and tutoring mathematics for over 10 years.  
-
-I have a B.S. from Penn State and I'm currently doing preliminary coursework for a PhD in 2020.  Stay tuned!  
-
-In my free time I like to practice yoga, read, cook and do freelance software engineering.
+Hello!  I'm Stephen.  I have a B.S. from Penn State and I'm currently doing preliminary coursework for a PhD in 2020.  Stay tuned!
 
 # Summary of experience
 Current:
@@ -30,4 +26,4 @@ Some recent work (See 'Work History and Feedback')
 
 Email <mathemagicspgh@gmail.com> for a quote and to schedule an appointment (be sure to include target subject, relevant textbooks, desired learning outcomes, etc.)  
 
-Note:  My base rate is $60/hour.  I specialize in tutoring higher level mathematics, focused around calculus.  There are many other tutors in the Pittsburgh area who can help with more foundational mathematics courses.
+Note:  My base rate is $50/hour.  I specialize in tutoring higher level mathematics, focused around calculus.  There are many other tutors in the Pittsburgh area who can help with more foundational mathematics courses.
